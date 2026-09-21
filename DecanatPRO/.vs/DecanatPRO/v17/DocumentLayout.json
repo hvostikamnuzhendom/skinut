@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\DecanatPRO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{336BF7F9-5BC5-419D-9287-85BA91385C25}|Model\\Model.csproj|C:\\Users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\DecanatPRO\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{336BF7F9-5BC5-419D-9287-85BA91385C25}|Model\\Model.csproj|solutionrelative:model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8AA2F4-7E9B-424B-97B8-0CD5505E42BB}|BusinessLogic\\BusinessLogic.csproj|C:\\Users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\DecanatPRO\\businesslogic\\logic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8AA2F4-7E9B-424B-97B8-0CD5505E42BB}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\logic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A8F6B3-64AD-4B51-AA7C-16FD45D985C8}|WinForm UI\\WinFormView.csproj|C:\\Users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\DecanatPRO\\winform ui\\addstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F2A8F6B3-64AD-4B51-AA7C-16FD45D985C8}|WinForm UI\\WinFormView.csproj|solutionrelative:winform ui\\addstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A8F6B3-64AD-4B51-AA7C-16FD45D985C8}|WinForm UI\\WinFormView.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\decanatpro\\winform ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F2A8F6B3-64AD-4B51-AA7C-16FD45D985C8}|WinForm UI\\WinFormView.csproj|solutionrelative:winform ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A8F6B3-64AD-4B51-AA7C-16FD45D985C8}|WinForm UI\\WinForm UI.csproj|C:\\Users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\DecanatPRO\\winform ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F2A8F6B3-64AD-4B51-AA7C-16FD45D985C8}|WinForm UI\\WinForm UI.csproj|solutionrelative:winform ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B14713E-E8DD-41C3-A7B8-1FBF161287A4}|Console UI\\ConsoleView.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\decanatpro\\console ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B14713E-E8DD-41C3-A7B8-1FBF161287A4}|Console UI\\ConsoleView.csproj|solutionrelative:console ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A8F6B3-64AD-4B51-AA7C-16FD45D985C8}|WinForm UI\\WinFormView.csproj|C:\\Users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\DecanatPRO\\winform ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2A8F6B3-64AD-4B51-AA7C-16FD45D985C8}|WinForm UI\\WinFormView.csproj|solutionrelative:winform ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A8F6B3-64AD-4B51-AA7C-16FD45D985C8}|WinForm UI\\WinFormView.csproj|C:\\Users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\DecanatPRO\\winform ui\\addstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2A8F6B3-64AD-4B51-AA7C-16FD45D985C8}|WinForm UI\\WinFormView.csproj|solutionrelative:winform ui\\addstudentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A8F6B3-64AD-4B51-AA7C-16FD45D985C8}|WinForm UI\\WinFormView.csproj|C:\\Users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\DecanatPRO\\winform ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2A8F6B3-64AD-4B51-AA7C-16FD45D985C8}|WinForm UI\\WinFormView.csproj|solutionrelative:winform ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A8F6B3-64AD-4B51-AA7C-16FD45D985C8}|WinForm UI\\WinFormView.csproj|C:\\Users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\DecanatPRO\\winform ui\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2A8F6B3-64AD-4B51-AA7C-16FD45D985C8}|WinForm UI\\WinFormView.csproj|solutionrelative:winform ui\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A8F6B3-64AD-4B51-AA7C-16FD45D985C8}|WinForm UI\\WinFormView.csproj|C:\\Users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\DecanatPRO\\winform ui\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{F2A8F6B3-64AD-4B51-AA7C-16FD45D985C8}|WinForm UI\\WinFormView.csproj|solutionrelative:winform ui\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\DecanatPRO\\WinForm UI\\Form1.cs",
+              "RelativeDocumentMoniker": "WinForm UI\\Form1.cs",
+              "ToolTip": "C:\\Users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\DecanatPRO\\WinForm UI\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WinForm UI\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T22:57:44.387Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\DecanatPRO\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "Model\\Student.cs",
+              "ToolTip": "C:\\Users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\DecanatPRO\\Model\\Student.cs",
+              "RelativeToolTip": "Model\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T17:36:12.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddStudentForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\DecanatPRO\\WinForm UI\\AddStudentForm.cs",
+              "RelativeDocumentMoniker": "WinForm UI\\AddStudentForm.cs",
+              "ToolTip": "C:\\Users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\DecanatPRO\\WinForm UI\\AddStudentForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WinForm UI\\AddStudentForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T17:58:00.118Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Logic.cs",
+              "DocumentMoniker": "C:\\Users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\DecanatPRO\\BusinessLogic\\Logic.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Logic.cs",
+              "ToolTip": "C:\\Users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\DecanatPRO\\BusinessLogic\\Logic.cs",
+              "RelativeToolTip": "BusinessLogic\\Logic.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAD4vxMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T17:36:56.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\DecanatPRO\\WinForm UI\\Form1.cs",
+              "RelativeDocumentMoniker": "WinForm UI\\Form1.cs",
+              "ToolTip": "C:\\Users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\DecanatPRO\\WinForm UI\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WinForm UI\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T17:30:58.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\DecanatPRO\\Console UI\\Program.cs",
+              "RelativeDocumentMoniker": "Console UI\\Program.cs",
+              "ToolTip": "C:\\Users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\DecanatPRO\\Console UI\\Program.cs",
+              "RelativeToolTip": "Console UI\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwDsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T17:31:27.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\DecanatPRO\\WinForm UI\\Form1.cs",
+              "RelativeDocumentMoniker": "WinForm UI\\Form1.cs",
+              "ToolTip": "C:\\Users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\DecanatPRO\\WinForm UI\\Form1.cs",
+              "RelativeToolTip": "WinForm UI\\Form1.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T17:49:05.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddStudentForm.cs",
+              "DocumentMoniker": "C:\\Users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\DecanatPRO\\WinForm UI\\AddStudentForm.cs",
+              "RelativeDocumentMoniker": "WinForm UI\\AddStudentForm.cs",
+              "ToolTip": "C:\\Users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\DecanatPRO\\WinForm UI\\AddStudentForm.cs",
+              "RelativeToolTip": "WinForm UI\\AddStudentForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T18:03:55.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\DecanatPRO\\WinForm UI\\Form1.resx",
+              "RelativeDocumentMoniker": "WinForm UI\\Form1.resx",
+              "ToolTip": "C:\\Users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\DecanatPRO\\WinForm UI\\Form1.resx",
+              "RelativeToolTip": "WinForm UI\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-09-14T17:49:22.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\DecanatPRO\\WinForm UI\\Program.cs",
+              "RelativeDocumentMoniker": "WinForm UI\\Program.cs",
+              "ToolTip": "C:\\Users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\DecanatPRO\\WinForm UI\\Program.cs",
+              "RelativeToolTip": "WinForm UI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T17:51:51.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\DecanatPRO\\WinForm UI\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WinForm UI\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\source\\repos\\3 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\DecanatPRO\\WinForm UI\\Form1.Designer.cs",
+              "RelativeToolTip": "WinForm UI\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T17:38:37.082Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

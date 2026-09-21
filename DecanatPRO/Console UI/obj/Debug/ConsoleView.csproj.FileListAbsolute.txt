@@ -1,0 +1,13 @@
+C:\Users\пользователь\source\repos\3 семестр\DecanatPRO\Console UI\bin\Debug\Console UI.exe.config
+C:\Users\пользователь\source\repos\3 семестр\DecanatPRO\Console UI\bin\Debug\Console UI.exe
+C:\Users\пользователь\source\repos\3 семестр\DecanatPRO\Console UI\bin\Debug\Console UI.pdb
+C:\Users\пользователь\source\repos\3 семестр\DecanatPRO\Console UI\bin\Debug\BusinessLogic.dll
+C:\Users\пользователь\source\repos\3 семестр\DecanatPRO\Console UI\bin\Debug\Model.dll
+C:\Users\пользователь\source\repos\3 семестр\DecanatPRO\Console UI\bin\Debug\BusinessLogic.pdb
+C:\Users\пользователь\source\repos\3 семестр\DecanatPRO\Console UI\bin\Debug\Model.pdb
+C:\Users\пользователь\source\repos\3 семестр\DecanatPRO\Console UI\obj\Debug\ConsoleView.csproj.AssemblyReference.cache
+C:\Users\пользователь\source\repos\3 семестр\DecanatPRO\Console UI\obj\Debug\ConsoleView.csproj.CoreCompileInputs.cache
+C:\Users\пользователь\source\repos\3 семестр\DecanatPRO\Console UI\obj\Debug\ConsoleV.40BA7453.Up2Date
+C:\Users\пользователь\source\repos\3 семестр\DecanatPRO\Console UI\obj\Debug\Console UI.exe
+C:\Users\пользователь\source\repos\3 семестр\DecanatPRO\Console UI\obj\Debug\Console UI.pdb
+C:\Users\пользователь\source\repos\3 семестр\DecanatPRO\Console UI\obj\Debug\Console UI.exe.config

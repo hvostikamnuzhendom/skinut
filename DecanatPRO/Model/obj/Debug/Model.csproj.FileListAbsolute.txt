@@ -1,6 +1,0 @@
-C:\Users\пользователь\source\repos\3 семестр\DecanatPRO\Model\bin\Debug\Model.dll
-C:\Users\пользователь\source\repos\3 семестр\DecanatPRO\Model\bin\Debug\Model.pdb
-C:\Users\пользователь\source\repos\3 семестр\DecanatPRO\Model\obj\Debug\Model.csproj.AssemblyReference.cache
-C:\Users\пользователь\source\repos\3 семестр\DecanatPRO\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
-C:\Users\пользователь\source\repos\3 семестр\DecanatPRO\Model\obj\Debug\Model.dll
-C:\Users\пользователь\source\repos\3 семестр\DecanatPRO\Model\obj\Debug\Model.pdb

@@ -1,9 +1,0 @@
-C:\Users\пользователь\source\repos\3 семестр\DecanatPRO\BusinessLogic\bin\Debug\BusinessLogic.dll
-C:\Users\пользователь\source\repos\3 семестр\DecanatPRO\BusinessLogic\bin\Debug\BusinessLogic.pdb
-C:\Users\пользователь\source\repos\3 семестр\DecanatPRO\BusinessLogic\bin\Debug\Model.dll
-C:\Users\пользователь\source\repos\3 семестр\DecanatPRO\BusinessLogic\bin\Debug\Model.pdb
-C:\Users\пользователь\source\repos\3 семестр\DecanatPRO\BusinessLogic\obj\Debug\BusinessLogic.csproj.AssemblyReference.cache
-C:\Users\пользователь\source\repos\3 семестр\DecanatPRO\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
-C:\Users\пользователь\source\repos\3 семестр\DecanatPRO\BusinessLogic\obj\Debug\Business.CF5D6E35.Up2Date
-C:\Users\пользователь\source\repos\3 семестр\DecanatPRO\BusinessLogic\obj\Debug\BusinessLogic.dll
-C:\Users\пользователь\source\repos\3 семестр\DecanatPRO\BusinessLogic\obj\Debug\BusinessLogic.pdb
